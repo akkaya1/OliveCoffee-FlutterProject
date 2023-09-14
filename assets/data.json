@@ -1,0 +1,22 @@
+[
+    {
+        "image": "images/filtercoffee.jpg",
+        "name": "Filter Coffee",
+        "price": "4$"
+    },
+    {
+        "image": "images/latte.jpg",
+        "name": "Latte",
+        "price": "10$"
+    },
+    {
+        "image": "images/sansebastian.jpg",
+        "name": "San Sebastian",
+        "price": "15$"
+    },
+    {
+        "image": "images/strawberrycheesecake.jpg",
+        "name": "Strawberry Cheesecake",
+        "price": "14$"
+    }
+]
