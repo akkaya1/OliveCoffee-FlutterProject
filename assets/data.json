@@ -2,21 +2,26 @@
     {
         "image": "images/filtercoffee.jpg",
         "name": "Filter Coffee",
-        "price": "4$"
+        "price": "4$",
+        "category": "coffee"
+
     },
     {
         "image": "images/latte.jpg",
         "name": "Latte",
-        "price": "10$"
+        "price": "10$",
+        "category": "coffee"
     },
     {
         "image": "images/sansebastian.jpg",
         "name": "San Sebastian",
-        "price": "15$"
+        "price": "15$",
+        "category": "dessert"
     },
     {
         "image": "images/strawberrycheesecake.jpg",
         "name": "Strawberry Cheesecake",
-        "price": "14$"
+        "price": "14$",
+        "category": "dessert"
     }
 ]
