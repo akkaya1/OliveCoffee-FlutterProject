@@ -1,3 +1,3 @@
-![](https://github.com/akkaya1/OliveCoffee-FlutterProject/blob/main/images/1.png)
+<img src="https://github.com/akkaya1/OliveCoffee-FlutterProject/blob/main/images/1.png" width="300"/>
 
-![](https://github.com/akkaya1/OliveCoffee-FlutterProject/blob/main/images/2.png)
+<img src="https://github.com/akkaya1/OliveCoffee-FlutterProject/blob/main/images/2.png" width="300"/>
